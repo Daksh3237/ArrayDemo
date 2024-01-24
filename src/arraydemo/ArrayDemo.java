@@ -6,13 +6,15 @@ package arraydemo;
 
 import java.util.Scanner;
 
-/**
+/*
+ * Hello this has been edited from remote
  * Commenting for modification on jan 17 at 9:48 AM
  * @author daksh
  */
 public class ArrayDemo {
 
     /**
+    
      * @param args the command line arguments
      */
     public static void main(String[] args) {
