@@ -19,8 +19,8 @@ public class ArrayDemo {
         // TODO code application logic here
         Scanner input = new Scanner(System.in);
         
-        System.out.println("third commit");
-        System.out.println("Enter the word");
+       
+        System.out.println("please Enter the word");
         String myWord = input.nextLine();
         
         char[] myLetters = new char[myWord.length()];
@@ -29,7 +29,7 @@ public class ArrayDemo {
             myLetters[i] = myWord.charAt(i);
         }
             
-            System.out.println("printing in reverse");
+            System.out.println("printing in reverse order");
             
             for(int i = myLetters.length-1;i>=0;i--){
                     System.out.println(myLetters[i]);
