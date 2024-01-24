@@ -19,7 +19,7 @@ public class ArrayDemo {
         // TODO code application logic here
         Scanner input = new Scanner(System.in);
         
-        system.out.println("third commit")
+        System.out.println("third commit");
         System.out.println("Enter the word");
         String myWord = input.nextLine();
         
